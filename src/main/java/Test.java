@@ -5,6 +5,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 		System.out.println("java class added");
+		System.out.println("name change");
 
 	}
 
