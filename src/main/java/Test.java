@@ -6,7 +6,8 @@ public class Test {
 		
 		System.out.println("java class added");
 		System.out.println("name change");
-
+ System.out.println("ghgh");
 	}
 
 }
+;
